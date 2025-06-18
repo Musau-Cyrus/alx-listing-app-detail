@@ -1,7 +1,5 @@
 import { IMAGES } from '../constants';
 import PropertyListing from "../components/common/PropertyListing";
-import Footer from '@/components/layout/Footer';
-import Header from '@/components/layout/Header';
 
 const Home: React.FC = () => {
   return (
